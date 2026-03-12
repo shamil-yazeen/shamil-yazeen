@@ -8,7 +8,7 @@ Currently focused on:
 - ⚙️ Full-Stack Development (MERN)
 - 🔐 Application Security & Cryptography
 - 🧠 Data Structures & Algorithms
-- 🚀 Building production-style backend architectures
+- 🚀 Building scalable backend architectures
 
 ---
 
